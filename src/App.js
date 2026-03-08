@@ -19,7 +19,7 @@ function App() {
     studyHours: 120,
     completedCourses: 8,
     upcomingExams: 3,
-    assignments: 5
+    assignments: 6
   });
 
   const renderContent = () => {
