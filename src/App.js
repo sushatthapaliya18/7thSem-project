@@ -8,7 +8,7 @@ import './App.css';
 function App() {
   const [activeTab, setActiveTab] = useState('dashboard');
   const [studentData, setStudentData] = useState({
-    name: 'Alex Johnson',
+    name: 'Suyog Lamichhane',
     email: 'alex.johnson@student.edu',
     university: 'Tribhuvan University',
     studentId: 'TUCSIT2024001',
